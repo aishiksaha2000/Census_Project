@@ -1,0 +1,641 @@
+District,State,Growth,Sex_Ratio,Literacy %
+Thane,Maharashtra,36.01%,886.00,84.5300
+North Twenty Four Parganas,West Bengal,12.04%,955.00,84.0600
+Bangalore,Karnataka,47.18%,916.00,87.6700
+Pune,Maharashtra,30.37%,915.00,86.1500
+Mumbai Suburban,Maharashtra,8.29%,860.00,89.9100
+South Twenty Four Parganas,West Bengal,18.17%,956.00,77.5100
+Barddhaman,West Bengal,11.92%,945.00,76.2100
+Ahmadabad,Gujarat,24.03%,904.00,85.3100
+Murshidabad,West Bengal,21.09%,958.00,66.5900
+Jaipur,Rajasthan,26.19%,910.00,75.5100
+Nashik,Maharashtra,22.30%,934.00,82.3100
+Surat,Gujarat,42.24%,787.00,85.5300
+Allahabad,Uttar Pradesh,20.63%,901.00,72.3200
+Paschim Medinipur,West Bengal,13.86%,966.00,78.0000
+Patna,Bihar,23.73%,897.00,70.6800
+Hugli,West Bengal,9.46%,961.00,81.8000
+Rangareddy,Andhra Pradesh,48.16%,961.00,75.8700
+Nadia,West Bengal,12.22%,947.00,74.9700
+East Godavari,Andhra Pradesh,5.16%,1006.00,70.9900
+Purbi Champaran,Bihar,29.43%,902.00,55.7900
+Purba Medinipur,West Bengal,15.36%,938.00,87.0200
+Guntur,Andhra Pradesh,9.47%,1003.00,67.4000
+Haora,West Bengal,13.50%,939.00,83.3100
+Muzaffarpur,Bihar,28.14%,900.00,63.4300
+Belgaum,Karnataka,13.41%,973.00,73.4800
+Moradabad,Uttar Pradesh,25.22%,906.00,56.7700
+Ghaziabad,Uttar Pradesh,42.27%,881.00,78.0700
+Nagpur,Maharashtra,14.40%,951.00,88.3900
+Chennai,Tamil Nadu,6.98%,989.00,90.1800
+Azamgarh,Uttar Pradesh,17.11%,1019.00,70.9300
+Lucknow,Uttar Pradesh,25.82%,917.00,77.2900
+Kanpur Nagar,Uttar Pradesh,9.92%,862.00,79.6500
+Ahmadnagar,Maharashtra,12.44%,939.00,79.0500
+Krishna,Andhra Pradesh,7.87%,992.00,73.7400
+Kolkata,West Bengal,-1.67%,908.00,86.3100
+Jaunpur,Uttar Pradesh,14.89%,1024.00,71.5500
+Madhubani,Bihar,25.51%,926.00,58.6200
+Sitapur,Uttar Pradesh,23.88%,888.00,61.1200
+Bareilly,Uttar Pradesh,22.93%,887.00,58.4900
+Gorakhpur,Uttar Pradesh,17.81%,950.00,70.8300
+Agra,Uttar Pradesh,22.05%,868.00,71.5800
+Gaya,Bihar,26.43%,937.00,63.6700
+Solapur,Maharashtra,12.16%,938.00,77.0200
+Visakhapatnam,Andhra Pradesh,11.96%,1006.00,66.9100
+Samastipur,Bihar,25.53%,911.00,61.8600
+Jalgaon,Maharashtra,14.86%,925.00,78.2000
+Chittoor,Andhra Pradesh,11.43%,997.00,71.5300
+Vadodara,Gujarat,14.38%,934.00,78.9200
+Muzaffarnagar,Uttar Pradesh,16.94%,889.00,69.1200
+Malappuram,Kerala,13.45%,1098.00,93.5700
+Hardoi,Uttar Pradesh,20.44%,868.00,64.5700
+Anantapur,Andhra Pradesh,12.10%,977.00,63.5700
+Raipur,Chhattisgarh,34.70%,984.00,75.5600
+Kurnool,Andhra Pradesh,14.85%,988.00,59.9700
+Mahbubnagar,Andhra Pradesh,15.34%,977.00,55.0400
+Kheri,Uttar Pradesh,25.38%,894.00,60.5600
+Kancheepuram,Tamil Nadu,38.95%,986.00,84.4900
+Maldah,West Bengal,21.22%,944.00,61.7300
+Saran,Bihar,21.64%,954.00,65.9600
+Hyderabad,Andhra Pradesh,2.97%,954.00,83.2500
+Darbhanga,Bihar,19.47%,911.00,56.5600
+West Godavari,Andhra Pradesh,3.51%,1004.00,74.6300
+Vellore,Tamil Nadu,13.20%,1007.00,79.1700
+Pashchim Champaran,Bihar,29.29%,909.00,55.7000
+Kolhapur,Maharashtra,10.01%,957.00,81.5100
+Jalpaiguri,West Bengal,13.87%,953.00,73.2500
+Rajkot,Gujarat,20.02%,927.00,80.9600
+Sultanpur,Uttar Pradesh,18.11%,983.00,69.2700
+Karimnagar,Andhra Pradesh,8.15%,1008.00,64.1500
+Thiruvallur,Tamil Nadu,35.33%,987.00,84.0300
+Aurangabad,Maharashtra,27.76%,923.00,79.0200
+Jodhpur,Rajasthan,27.74%,916.00,65.9400
+Bijnor,Uttar Pradesh,17.60%,917.00,68.4800
+Budaun,Uttar Pradesh,19.95%,871.00,51.2900
+Varanasi,Uttar Pradesh,17.15%,913.00,75.6000
+Alwar,Rajasthan,22.78%,895.00,70.7200
+Aligarh,Uttar Pradesh,22.78%,882.00,67.5200
+North West Delhi,Delhi,27.81%,865.00,84.4500
+Ghazipur,Uttar Pradesh,19.18%,952.00,71.7800
+Bankura,West Bengal,12.65%,957.00,70.2600
+Kushinagar,Uttar Pradesh,23.20%,961.00,65.2500
+Ganjam,Orissa,11.66%,983.00,71.0900
+Warangal,Andhra Pradesh,8.21%,997.00,65.1100
+Birbhum,West Bengal,16.15%,956.00,70.6800
+Bulandshahar,Uttar Pradesh,20.12%,896.00,68.8800
+Ludhiana,Punjab,15.36%,873.00,82.2000
+Vaishali,Bihar,28.57%,895.00,66.6000
+Nalgonda,Andhra Pradesh,7.41%,983.00,64.2000
+Bahraich,Uttar Pradesh,46.48%,892.00,49.3600
+Salem,Tamil Nadu,15.44%,954.00,72.8600
+Saharanpur,Uttar Pradesh,19.66%,890.00,70.4900
+Viluppuram,Tamil Nadu,16.84%,987.00,71.8800
+Coimbatore,Tamil Nadu,18.56%,1000.00,83.9800
+Meerut,Uttar Pradesh,14.89%,886.00,72.8400
+Gonda,Uttar Pradesh,24.17%,921.00,58.7100
+Sitamarhi,Bihar,27.62%,899.00,52.0500
+Rae Bareli,Uttar Pradesh,18.56%,943.00,67.2500
+Prakasam,Andhra Pradesh,11.05%,981.00,63.0800
+Nanded,Maharashtra,16.86%,943.00,75.4500
+Durg,Chhattisgarh,18.98%,988.00,79.0600
+Siwan,Bihar,22.70%,988.00,69.4500
+Nagaur,Rajasthan,19.20%,950.00,62.8000
+Thiruvananthapuram,Kerala,2.07%,1087.00,93.0200
+Ernakulam,Kerala,5.69%,1027.00,95.8900
+Indore,Madhya Pradesh,32.88%,928.00,80.8700
+Purnia,Bihar,28.33%,921.00,51.0800
+Barabanki,Uttar Pradesh,21.96%,910.00,61.7500
+Ballia,Uttar Pradesh,17.31%,937.00,70.9400
+Pratapgarh,Uttar Pradesh,17.50%,998.00,70.0900
+Thrissur,Kerala,4.94%,1108.00,95.0800
+Banaskantha,Gujarat,24.61%,938.00,65.3200
+Unnao,Uttar Pradesh,15.11%,907.00,66.3700
+Deoria,Uttar Pradesh,14.31%,1017.00,71.1300
+Kozhikode,Kerala,7.20%,1098.00,95.0800
+Mumbai City,Maharashtra,-7.57%,832.00,89.2100
+Tirunelveli,Tamil Nadu,12.97%,1023.00,82.5000
+Katihar,Bihar,28.35%,919.00,52.2400
+Udaipur,Rajasthan,23.69%,958.00,61.8200
+Madurai,Tamil Nadu,17.84%,990.00,83.4500
+Bhagalpur,Bihar,25.36%,880.00,63.1400
+Medak,Andhra Pradesh,13.60%,992.00,61.4200
+Uttar Dinajpur,West Bengal,23.15%,939.00,59.0700
+Shahjahanpur,Uttar Pradesh,18.00%,872.00,59.5400
+Satara,Maharashtra,6.93%,988.00,82.8700
+Mysore,Karnataka,13.63%,985.00,72.7900
+Begusarai,Bihar,26.44%,895.00,63.8700
+Sri Potti Sriramulu Nellore,Andhra Pradesh,11.05%,985.00,68.9000
+Rohtas,Bihar,20.78%,918.00,73.3700
+Puruliya,West Bengal,15.52%,957.00,64.4800
+Ranchi,Jharkhand,23.98%,949.00,76.0600
+Amravati,Maharashtra,10.79%,951.00,87.3800
+YSR,Andhra Pradesh,10.79%,985.00,67.3000
+Bhavnagar,Gujarat,16.63%,933.00,75.5200
+Nalanda,Bihar,21.39%,922.00,64.4300
+Nagaon,Assam,22.00%,962.00,72.3700
+Sangli,Maharashtra,9.24%,966.00,81.4800
+Koch Bihar,West Bengal,13.71%,942.00,74.7800
+Araria,Bihar,30.25%,921.00,53.5300
+Palakkad,Kerala,7.35%,1067.00,89.3100
+Khammam,Andhra Pradesh,8.47%,1011.00,64.8100
+Yavatmal,Maharashtra,12.78%,952.00,82.8200
+Junagadh,Gujarat,12.05%,953.00,75.8000
+Adilabad,Andhra Pradesh,10.18%,1001.00,61.0100
+South Delhi,Delhi,20.51%,862.00,86.5700
+Bhojpur,Bihar,21.63%,907.00,70.4700
+Tiruchirappalli,Tamil Nadu,12.57%,1013.00,83.2300
+Srikakulam,Andhra Pradesh,6.52%,1015.00,61.7400
+Maharajganj,Uttar Pradesh,23.50%,943.00,62.7600
+Dhanbad,Jharkhand,11.99%,909.00,74.5200
+Tumkur,Karnataka,3.65%,984.00,75.1400
+Sikar,Rajasthan,17.03%,947.00,71.9100
+Bilaspur,Chhattisgarh,33.29%,971.00,70.7800
+Kollam,Kerala,1.94%,1113.00,94.0900
+Raigarh,Maharashtra,19.31%,959.00,83.1400
+Fatehpur,Uttar Pradesh,14.05%,901.00,67.4300
+Cuttack,Orissa,12.10%,940.00,85.5000
+Cuddalore,Tamil Nadu,14.02%,987.00,78.0400
+Barmer,Rajasthan,32.52%,902.00,56.5300
+Buldana,Maharashtra,15.85%,934.00,83.4000
+Bid,Maharashtra,19.61%,916.00,76.9900
+Ajmer,Rajasthan,18.40%,951.00,69.3300
+Gulbarga,Karnataka,18.01%,971.00,64.8500
+Gopalganj,Bihar,19.02%,1021.00,65.4700
+Siddharth Nagar,Uttar Pradesh,25.45%,976.00,59.2500
+Nizamabad,Andhra Pradesh,8.77%,1040.00,61.2500
+Bharatpur,Rajasthan,21.29%,880.00,70.1100
+Mathura,Uttar Pradesh,22.78%,863.00,70.3600
+West Delhi,Delhi,19.46%,875.00,86.9800
+Aurangabad,Bihar,26.18%,926.00,70.3200
+Kannur,Kerala,4.73%,1136.00,95.1000
+Mayurbhanj,Orissa,13.33%,1006.00,63.1700
+Firozabad,Uttar Pradesh,21.69%,875.00,71.9200
+Mirzapur,Uttar Pradesh,18.00%,903.00,68.4800
+Amritsar,Punjab,15.47%,889.00,76.2700
+Tiruppur,Tamil Nadu,29.11%,989.00,78.6800
+Faizabad,Uttar Pradesh,18.29%,962.00,68.7300
+Tiruvannamalai,Tamil Nadu,12.75%,994.00,74.2100
+Basti,Uttar Pradesh,18.21%,963.00,67.2200
+Jabalpur,Madhya Pradesh,14.51%,929.00,81.0700
+Latur,Maharashtra,17.97%,928.00,77.2600
+Bellary,Karnataka,20.99%,983.00,67.4300
+Giridih,Jharkhand,28.41%,944.00,63.1400
+Sabarkantha,Gujarat,16.62%,952.00,75.7900
+Bhilwara,Rajasthan,19.60%,973.00,61.3700
+Thanjavur,Tamil Nadu,8.56%,1035.00,82.6400
+Ambedkar Nagar,Uttar Pradesh,18.30%,978.00,72.2300
+PanchMahal,Gujarat,18.05%,949.00,70.9900
+Sagar,Madhya Pradesh,17.63%,893.00,76.4600
+Bhopal,Madhya Pradesh,28.62%,918.00,80.3700
+Rewa,Madhya Pradesh,19.86%,931.00,71.6200
+Bikaner,Rajasthan,41.19%,905.00,65.1300
+Surguja,Chhattisgarh,19.66%,978.00,60.0100
+Vizianagaram,Andhra Pradesh,4.23%,1019.00,58.8900
+Rampur,Uttar Pradesh,21.42%,909.00,53.3400
+Baleshwar,Orissa,14.62%,957.00,79.7900
+Kheda,Gujarat,13.62%,940.00,82.6500
+Gurdaspur,Punjab,9.26%,895.00,79.9500
+Purbi Singhbhum,Jharkhand,15.68%,949.00,75.4900
+South West Delhi,Delhi,30.65%,840.00,88.2800
+Erode,Tamil Nadu,11.66%,993.00,72.5800
+Khordha,Orissa,19.94%,929.00,86.8800
+North East Delhi,Delhi,26.78%,886.00,83.0900
+Supaul,Bihar,28.66%,929.00,57.6700
+Satna,Madhya Pradesh,19.19%,926.00,72.2600
+Nawada,Bihar,22.63%,939.00,59.7600
+Mau,Uttar Pradesh,18.98%,979.00,73.0900
+Chandrapur,Maharashtra,6.43%,961.00,80.0100
+Jalandhar,Punjab,11.76%,915.00,82.4800
+Dhar,Madhya Pradesh,25.60%,964.00,59.0000
+Bijapur,Karnataka,20.50%,960.00,67.1500
+Jamnagar,Gujarat,13.44%,939.00,73.6500
+Dindigul,Tamil Nadu,12.31%,998.00,76.2600
+Balrampur,Uttar Pradesh,27.72%,928.00,49.5100
+Jhunjhunun,Rajasthan,11.67%,950.00,74.1300
+Alappuzha,Kerala,0.88%,1100.00,95.7200
+Dohad,Gujarat,29.98%,990.00,58.8200
+Sundargarh,Orissa,14.35%,973.00,73.3400
+Anand,Gujarat,12.70%,925.00,84.3700
+Kachchh,Gujarat,32.16%,908.00,70.5900
+Chhindwara,Madhya Pradesh,13.07%,964.00,71.1600
+Dakshina Kannada,Karnataka,10.11%,1020.00,88.5700
+Bokaro,Jharkhand,16.01%,922.00,72.0100
+Dhule,Maharashtra,20.08%,946.00,72.8000
+Churu,Rajasthan,6.01%,940.00,66.7500
+Pali,Rajasthan,11.94%,987.00,62.3900
+Mahesana,Gujarat,10.73%,926.00,83.6100
+Banka,Bihar,26.48%,907.00,58.1700
+Gwalior,Madhya Pradesh,24.50%,864.00,76.6500
+Pilibhit,Uttar Pradesh,23.45%,895.00,61.4700
+Firozpur,Punjab,16.21%,893.00,68.9200
+Madhepura,Bihar,31.12%,911.00,52.2500
+Jhansi,Uttar Pradesh,14.54%,890.00,75.0500
+Ujjain,Madhya Pradesh,16.12%,955.00,72.3400
+Kottayam,Kerala,1.07%,1039.00,97.2100
+Ganganagar,Rajasthan,10.04%,887.00,69.6400
+Morena,Madhya Pradesh,23.44%,840.00,71.0300
+Jalna,Maharashtra,21.46%,937.00,71.5200
+Chandauli,Uttar Pradesh,18.83%,918.00,71.4800
+Kota,Rajasthan,24.39%,911.00,76.5600
+Dhubri,Assam,24.44%,953.00,58.3400
+Davanagere,Karnataka,8.63%,972.00,75.7400
+Virudhunagar,Tamil Nadu,10.91%,1007.00,80.1500
+Palamu,Jharkhand,26.17%,928.00,63.6300
+Raichur,Karnataka,15.51%,1000.00,59.5600
+Sonitpur,Assam,15.55%,956.00,67.3400
+Saharsa,Bihar,26.02%,906.00,53.2000
+Patiala,Punjab,19.62%,891.00,75.2800
+Haridwar,Uttarakhand,30.63%,880.00,73.4300
+Bagalkot,Karnataka,14.40%,989.00,68.8200
+Farrukhabad,Uttar Pradesh,20.05%,874.00,69.0400
+Krishnagiri,Tamil Nadu,20.41%,958.00,71.4600
+West Nimar,Madhya Pradesh,22.85%,965.00,62.7000
+Kanniyakumari,Tamil Nadu,11.60%,1019.00,91.7500
+Mainpuri,Uttar Pradesh,17.02%,881.00,75.9900
+Sonbhadra,Uttar Pradesh,27.27%,918.00,64.0300
+Dharwad,Karnataka,15.13%,971.00,80.0000
+Darjiling,West Bengal,14.77%,970.00,79.5600
+Jyotiba Phule Nagar,Uttar Pradesh,22.76%,910.00,63.8400
+Parbhani,Maharashtra,20.19%,947.00,73.3400
+Jalor,Rajasthan,26.21%,952.00,54.8600
+Jajapur,Orissa,12.49%,973.00,80.1300
+Akola,Maharashtra,11.27%,946.00,88.0500
+Faridabad,Haryana,32.54%,873.00,81.7000
+Mandya,Karnataka,2.38%,995.00,70.4000
+Kendujhar,Orissa,15.35%,988.00,68.2400
+Banda,Uttar Pradesh,17.05%,863.00,66.6700
+Banswara,Rajasthan,26.53%,980.00,56.3300
+Ramabai Nagar,Uttar Pradesh,14.89%,865.00,75.7800
+Hassan,Karnataka,3.18%,1010.00,76.0700
+Hanumangarh,Rajasthan,16.91%,906.00,67.1300
+Etah,Uttar Pradesh,13.62%,873.00,70.8100
+Chhattarpur,Madhya Pradesh,19.51%,883.00,63.7400
+Jamui,Bihar,25.85%,922.00,59.7900
+Surendranagar,Gujarat,15.91%,930.00,72.1300
+Shimoga,Karnataka,6.71%,998.00,80.4500
+Thoothukkudi,Tamil Nadu,11.32%,1023.00,86.1600
+Hisar,Haryana,13.45%,872.00,72.8900
+Cachar,Assam,20.19%,959.00,79.3400
+Hazaribagh,Jharkhand,20.65%,947.00,69.7500
+Namakkal,Tamil Nadu,15.61%,986.00,74.6300
+Shivpuri,Madhya Pradesh,22.76%,877.00,62.5500
+West Tripura,Tripura,12.57%,962.00,88.6900
+Sant Kabir Nagar,Uttar Pradesh,20.77%,972.00,66.7200
+East Delhi,Delhi,16.79%,884.00,89.3100
+Buxar,Bihar,21.67%,922.00,70.1400
+Valsad,Gujarat,20.92%,922.00,78.5500
+Bidar,Karnataka,13.37%,956.00,70.5100
+Bhind,Madhya Pradesh,19.21%,837.00,75.2600
+Balaghat,Madhya Pradesh,13.60%,1021.00,77.0900
+Puri,Orissa,13.05%,963.00,84.6700
+Dehradun,Uttarakhand,32.33%,902.00,84.2500
+Barpeta,Assam,21.43%,953.00,63.8100
+Kishanganj,Bihar,30.40%,950.00,55.4600
+Jalaun,Uttar Pradesh,16.19%,865.00,73.7500
+Dakshin Dinajpur,West Bengal,11.52%,956.00,72.8200
+Khagaria,Bihar,30.19%,886.00,57.9200
+Chitradurga,Karnataka,9.33%,974.00,73.7100
+Osmanabad,Maharashtra,11.50%,924.00,78.4400
+Kannauj,Uttar Pradesh,19.27%,879.00,72.7000
+Sangrur,Punjab,12.35%,885.00,67.9900
+Balangir,Orissa,23.32%,987.00,64.7200
+Udham Singh Nagar,Uttarakhand,33.45%,920.00,73.1000
+Nandurbar,Maharashtra,25.66%,978.00,64.3800
+Gautam Buddha Nagar,Uttar Pradesh,37.11%,851.00,80.1200
+Bhiwani,Haryana,14.70%,886.00,75.2100
+Dausa,Rajasthan,24.09%,905.00,68.1600
+Kaimur,Bihar,26.17%,920.00,69.3400
+Janjgir Champa,Chhattisgarh,22.94%,986.00,73.0700
+Pudukkottai,Tamil Nadu,10.88%,1015.00,77.1900
+Nagapattinam,Tamil Nadu,8.57%,1025.00,83.5900
+Ratnagiri,Maharashtra,-4.82%,1122.00,82.1800
+Kaushambi,Uttar Pradesh,23.70%,908.00,61.2800
+Haveri,Karnataka,11.02%,950.00,77.4000
+Hoshiarpur,Punjab,7.11%,961.00,84.5900
+Etawah,Uttar Pradesh,18.15%,870.00,78.4100
+Sant Ravidas Nagar,Uttar Pradesh,16.58%,955.00,68.9700
+Kalahandi,Orissa,18.07%,1003.00,59.2200
+Betul,Madhya Pradesh,12.92%,971.00,68.9000
+Mahamaya Nagar,Uttar Pradesh,17.12%,871.00,71.5900
+Dewas,Madhya Pradesh,19.53%,942.00,69.3500
+Bharuch,Gujarat,13.16%,925.00,81.5100
+Rajgarh,Madhya Pradesh,23.26%,956.00,61.2100
+Chittaurgarh,Rajasthan,16.08%,972.00,61.7100
+Rajnandgaon,Chhattisgarh,19.79%,1015.00,75.9600
+Kolar,Karnataka,10.77%,979.00,74.3900
+Jammu,Jammu and Kashmir,12.74%,880.00,83.4500
+Kamrup,Assam,15.69%,949.00,75.5500
+Gurgaon,Haryana,73.96%,854.00,84.7000
+Amreli,Gujarat,8.63%,964.00,74.2500
+Shajapur,Madhya Pradesh,17.20%,938.00,69.0900
+Kangra,Himachal Pradesh,12.77%,1012.00,85.6700
+Dharmapuri,Tamil Nadu,16.34%,946.00,68.5400
+Bhadrak,Orissa,12.94%,981.00,82.7800
+Karnal,Haryana,18.14%,887.00,74.7300
+Pashchimi Singhbhum,Jharkhand,21.75%,1005.00,58.6300
+Raigarh,Chhattisgarh,18.05%,991.00,73.2600
+Deoghar,Jharkhand,28.03%,925.00,64.8500
+Bargarh,Orissa,10.02%,977.00,74.6200
+Vidisha,Madhya Pradesh,20.09%,896.00,70.5300
+Karauli,Rajasthan,20.55%,861.00,66.2200
+Ratlam,Madhya Pradesh,19.72%,971.00,66.7800
+Sonipat,Haryana,13.35%,856.00,79.1200
+Tikamgarh,Madhya Pradesh,20.13%,901.00,61.4300
+Kendrapara,Orissa,10.63%,1007.00,85.1500
+Uttara Kannada,Karnataka,6.17%,979.00,84.0600
+Kanshiram Nagar,Uttar Pradesh,16.93%,880.00,61.0200
+Tonk,Rajasthan,17.30%,952.00,61.5800
+Bastar,Chhattisgarh,17.96%,1023.00,54.4000
+Jhalawar,Rajasthan,19.55%,946.00,61.5000
+Gandhinagar,Gujarat,4.29%,923.00,84.1600
+Koppal,Karnataka,16.21%,986.00,68.0900
+Dungarpur,Rajasthan,25.36%,994.00,59.4600
+Bathinda,Punjab,17.34%,868.00,68.2800
+Barwani,Madhya Pradesh,27.57%,982.00,49.0800
+Koraput,Orissa,16.86%,1032.00,49.2100
+Auraiya,Uttar Pradesh,16.91%,864.00,78.9500
+Seoni,Madhya Pradesh,18.22%,982.00,72.1200
+Munger,Bihar,20.21%,876.00,70.4600
+Ramanathapuram,Tamil Nadu,13.96%,983.00,80.7200
+Patan,Gujarat,13.61%,935.00,72.3000
+Mandsaur,Madhya Pradesh,13.24%,963.00,71.7800
+Sivaganga,Tamil Nadu,15.90%,1003.00,79.8500
+Sawai Madhopur,Rajasthan,19.56%,897.00,65.3900
+Jind,Haryana,12.13%,871.00,71.4400
+Raisen,Madhya Pradesh,18.35%,901.00,72.9800
+Navsari,Gujarat,8.15%,961.00,83.8800
+Tinsukia,Assam,15.47%,952.00,69.6600
+Dibrugarh,Assam,11.92%,961.00,76.0500
+Garhwa,Jharkhand,27.75%,935.00,60.3300
+Gondiya,Maharashtra,10.14%,999.00,84.9500
+Dumka,Jharkhand,19.42%,977.00,61.0200
+Godda,Jharkhand,25.35%,938.00,56.4000
+Sehore,Madhya Pradesh,21.54%,918.00,70.0600
+East Nimar,Madhya Pradesh,21.50%,943.00,66.3900
+Kasaragod,Kerala,8.58%,1080.00,90.0900
+Baghpat,Uttar Pradesh,11.95%,861.00,72.0100
+Wardha,Maharashtra,5.18%,946.00,86.9900
+Sirsa,Haryana,15.99%,897.00,68.8200
+Katni,Madhya Pradesh,21.41%,952.00,71.9800
+Anugul,Orissa,11.74%,943.00,77.5300
+Thiruvarur,Tamil Nadu,8.11%,1017.00,82.8600
+Damoh,Madhya Pradesh,16.63%,910.00,69.7300
+Chikkaballapura,Karnataka,9.23%,972.00,69.7600
+Kamrup Metropolitan,Assam,18.34%,936.00,88.7100
+Theni,Tamil Nadu,13.89%,991.00,77.2600
+Guna,Madhya Pradesh,26.97%,912.00,63.2300
+Hoshangabad,Madhya Pradesh,14.49%,914.00,75.2900
+Srinagar,Jammu and Kashmir,20.35%,900.00,69.4100
+Karimganj,Assam,21.90%,963.00,78.2200
+Baran,Rajasthan,19.68%,929.00,66.6600
+Lalitpur,Uttar Pradesh,24.94%,906.00,63.5200
+Nabarangapur,Orissa,19.03%,1019.00,46.4300
+Yamunanagar,Haryana,16.57%,877.00,77.9900
+Korba,Chhattisgarh,19.25%,969.00,72.3700
+Dhaulpur,Rajasthan,22.71%,846.00,69.0800
+Panipat,Haryana,24.60%,864.00,75.9400
+Bhandara,Maharashtra,5.65%,982.00,83.7600
+Pathanamthitta,Kerala,-2.97%,1132.00,96.5500
+Washim,Maharashtra,17.34%,930.00,83.2500
+Dhenkanal,Orissa,11.80%,947.00,78.7600
+Singrauli,Madhya Pradesh,28.05%,920.00,60.4100
+Udupi,Karnataka,5.85%,1094.00,86.2400
+Hingoli,Maharashtra,19.27%,942.00,78.1700
+Yadgir,Karnataka,22.81%,989.00,51.8300
+Rajsamand,Rajasthan,17.18%,990.00,63.1400
+Sivasagar,Assam,9.44%,954.00,80.4100
+Sahibganj,Jharkhand,24.01%,952.00,52.0400
+Chikmagalur,Karnataka,-0.26%,1008.00,79.2500
+Jagatsinghapur,Orissa,7.50%,968.00,86.5900
+Ambala,Haryana,11.23%,885.00,81.7500
+Sidhi,Madhya Pradesh,23.72%,957.00,64.4300
+Jehanabad,Bihar,21.68%,922.00,66.8000
+Tarn Taran,Punjab,19.23%,900.00,67.8100
+Shrawasti,Uttar Pradesh,-5.02%,881.00,46.7400
+Bundi,Rajasthan,15.40%,925.00,61.5200
+Idukki,Kerala,-1.79%,1006.00,91.9900
+Hamirpur,Uttar Pradesh,5.80%,861.00,68.7700
+Jorhat,Assam,9.31%,962.00,82.1500
+Narsimhapur,Madhya Pradesh,14.01%,920.00,75.6900
+Mewat,Haryana,37.93%,907.00,54.0800
+Ramanagara,Karnataka,5.05%,976.00,69.2200
+Anantnag,Jammu and Kashmir,38.58%,927.00,62.6900
+Kaithal,Haryana,13.55%,881.00,69.1500
+Gadchiroli,Maharashtra,10.58%,982.00,74.3600
+Golaghat,Assam,12.75%,964.00,77.4300
+Shahdol,Madhya Pradesh,17.39%,974.00,66.6700
+Saraikela Kharsawan,Jharkhand,25.47%,956.00,67.7000
+Gadag,Karnataka,9.54%,982.00,75.1200
+Karur,Tamil Nadu,13.77%,1015.00,75.6000
+Rohtak,Haryana,12.88%,867.00,80.2200
+Chandigarh,Chandigarh,17.19%,818.00,86.0500
+Mandla,Madhya Pradesh,17.97%,1008.00,66.8700
+Chatra,Jharkhand,31.77%,953.00,60.1800
+Palwal,Haryana,25.76%,880.00,69.3200
+Lakhimpur,Assam,17.22%,968.00,77.2000
+Sambalpur,Orissa,11.27%,976.00,76.2200
+Sirohi,Rajasthan,21.76%,940.00,55.2500
+Mahasamund,Chhattisgarh,20.05%,1017.00,71.0200
+Gumla,Jharkhand,23.16%,993.00,65.7300
+Jhabua,Madhya Pradesh,30.70%,990.00,43.3000
+Chamarajanagar,Karnataka,5.73%,993.00,61.4300
+Panna,Madhya Pradesh,18.67%,905.00,64.7900
+Goalpara,Assam,22.64%,964.00,67.3700
+Baramula,Jammu and Kashmir,19.45%,885.00,64.6300
+Lakhisarai,Bihar,24.77%,902.00,62.4200
+Mandi,Himachal Pradesh,10.92%,1007.00,81.5300
+Moga,Punjab,11.28%,893.00,70.6800
+Mohali,Punjab,33.15%,879.00,83.8000
+Chitrakoot,Uttar Pradesh,29.43%,879.00,65.0500
+Bangalore Rural,Karnataka,16.45%,946.00,77.9300
+Rayagada,Orissa,16.46%,1051.00,49.7600
+Kurukshetra,Haryana,16.86%,888.00,76.3100
+Nayagarh,Orissa,11.37%,915.00,80.4200
+Jhajjar,Haryana,8.90%,862.00,80.6500
+Morigaon,Assam,23.34%,967.00,68.0300
+Karbi Anglong,Assam,17.58%,951.00,69.2500
+Nainital,Uttarakhand,25.13%,934.00,83.8800
+Puducherry,Puducherry,29.23%,1029.00,85.4400
+Baksa,Assam,10.74%,974.00,69.2500
+Ramgarh,Jharkhand,13.10%,921.00,73.1700
+Fatehabad,Haryana,16.85%,902.00,67.9200
+Darrang,Assam,22.19%,954.00,63.0800
+Mahendragarh,Haryana,13.48%,895.00,77.7200
+Muktsar,Punjab,16.00%,896.00,65.8100
+Pakur,Jharkhand,28.33%,989.00,48.8200
+Rewari,Haryana,17.64%,898.00,80.9900
+North Delhi,Delhi,13.62%,869.00,86.8500
+Kokrajhar,Assam,5.21%,959.00,65.2200
+South Tripura,Tripura,14.15%,957.00,84.6600
+Mahoba,Uttar Pradesh,23.64%,878.00,65.2700
+Kupwara,Jammu and Kashmir,33.82%,835.00,64.5100
+Pratapgarh,Rajasthan,22.78%,983.00,55.9700
+Jashpur,Chhattisgarh,14.60%,1005.00,67.9200
+Sindhudurg,Maharashtra,-2.21%,1036.00,85.5600
+Ashoknagar,Madhya Pradesh,22.66%,904.00,66.4200
+Udalguri,Assam,9.61%,973.00,65.4100
+Neemuch,Madhya Pradesh,13.77%,954.00,70.8000
+East Khasi Hills,Meghalaya,24.96%,1011.00,84.1500
+Kabirdham,Chhattisgarh,40.71%,996.00,60.8500
+North Goa,Goa,7.84%,963.00,89.5700
+Wayanad,Kerala,4.71%,1035.00,89.0300
+Kapurthala,Punjab,8.04%,912.00,79.0700
+Shimla,Himachal Pradesh,12.67%,915.00,83.6400
+Tapi,Gujarat,12.14%,1007.00,68.2600
+Dhamtari,Chhattisgarh,13.19%,1010.00,78.3600
+Jamtara,Jharkhand,21.12%,954.00,64.5900
+Datia,Madhya Pradesh,18.46%,873.00,72.6300
+Nalbari,Assam,11.99%,949.00,78.6300
+Mansa,Punjab,11.76%,883.00,61.8300
+Burhanpur,Madhya Pradesh,19.37%,951.00,64.3600
+Ariyalur,Tamil Nadu,8.54%,1015.00,71.3400
+Badgam,Jammu and Kashmir,24.14%,894.00,56.0800
+Anuppur,Madhya Pradesh,12.30%,976.00,67.8800
+Kanker,Chhattisgarh,15.06%,1006.00,70.2900
+Bongaigaon,Assam,20.59%,966.00,69.7400
+The Nilgiris,Tamil Nadu,-3.51%,1042.00,85.2000
+Kandhamal,Orissa,13.10%,1037.00,64.1300
+Alirajpur,Madhya Pradesh,19.45%,1011.00,36.1000
+Latehar,Jharkhand,29.61%,967.00,59.5100
+Kodarma,Jharkhand,43.42%,950.00,66.8400
+Dindori,Madhya Pradesh,21.32%,1002.00,63.9000
+Arwal,Bihar,18.89%,928.00,67.4300
+North Tripura,Tripura,17.44%,967.00,87.5000
+Sheopur,Madhya Pradesh,22.94%,901.00,57.4300
+Pauri Garhwal,Uttarakhand,-1.41%,1103.00,82.0200
+Dhemaji,Assam,19.97%,953.00,72.7000
+Rupnagar,Punjab,8.87%,915.00,82.1900
+Jaisalmer,Rajasthan,31.81%,852.00,57.2200
+Hailakandi,Assam,21.45%,951.00,74.3300
+Korea,Chhattisgarh,12.38%,968.00,70.6400
+Sheohar,Bihar,27.19%,893.00,53.7800
+Umaria,Madhya Pradesh,24.96%,950.00,65.8900
+West Garo Hills,Meghalaya,24.09%,984.00,67.5800
+Rajouri,Jammu and Kashmir,32.93%,860.00,68.1700
+South Goa,Goa,8.73%,986.00,87.5900
+Sheikhpura,Bihar,21.09%,930.00,63.8600
+Almora,Uttarakhand,-1.28%,1139.00,80.4700
+Tehri Garhwal,Uttarakhand,2.35%,1077.00,76.3600
+Faridkot,Punjab,12.09%,890.00,69.5500
+Kathua,Jammu and Kashmir,20.53%,890.00,73.0900
+Malkangiri,Orissa,21.62%,1020.00,48.5400
+Shahid Bhagat Singh Nagar,Punjab,4.23%,954.00,79.7800
+Nuapada,Orissa,15.02%,1021.00,57.3500
+Subarnapur,Orissa,12.61%,960.00,74.4200
+Fatehgarh Sahib,Punjab,11.46%,871.00,79.3500
+Simdega,Jharkhand,16.58%,997.00,67.9900
+Barnala,Punjab,13.02%,876.00,67.8200
+Narmada,Gujarat,14.75%,961.00,72.3100
+Porbandar,Gujarat,9.06%,950.00,75.7800
+Central Delhi,Delhi,-9.91%,892.00,85.1400
+Solan,Himachal Pradesh,15.93%,880.00,83.6800
+Jharsuguda,Orissa,13.69%,953.00,78.8600
+Gajapati,Orissa,11.37%,1043.00,53.4900
+Harda,Madhya Pradesh,20.25%,935.00,72.5000
+Perambalur,Tamil Nadu,14.50%,1003.00,74.3200
+Panchkula,Haryana,19.83%,873.00,81.8800
+Pulwama,Jammu and Kashmir,27.00%,912.00,63.4800
+Udhampur,Jammu and Kashmir,20.78%,870.00,68.4900
+Kodagu,Karnataka,1.09%,1019.00,82.6100
+Dantewada,Chhattisgarh,12.08%,1020.00,42.1200
+Khunti,Jharkhand,22.32%,997.00,63.8600
+Sirmaur,Himachal Pradesh,15.54%,918.00,78.8000
+Una,Himachal Pradesh,16.26%,976.00,86.5300
+Chamba,Himachal Pradesh,12.63%,986.00,72.1700
+Imphal West,Manipur,16.56%,1031.00,86.0800
+Pithoragarh,Uttarakhand,4.58%,1020.00,82.2500
+Chirang,Assam,11.34%,969.00,63.5500
+Senapati,Manipur,68.94%,937.00,63.6000
+Punch,Jammu and Kashmir,27.97%,893.00,66.7400
+Lohardaga,Jharkhand,26.68%,985.00,67.6100
+Imphal East,Manipur,15.51%,1017.00,81.9500
+Hamirpur,Himachal Pradesh,10.19%,1095.00,88.1500
+Baudh,Orissa,18.16%,991.00,71.6100
+Kullu,Himachal Pradesh,14.76%,942.00,79.4000
+Kulgam,Jammu and Kashmir,7.73%,951.00,59.2300
+Thoubal,Manipur,15.94%,1002.00,74.4700
+Doda,Jammu and Kashmir,28.00%,919.00,64.6800
+Aizawl,Mizoram,22.92%,1009.00,97.8900
+Jaintia Hills,Meghalaya,32.10%,1013.00,61.6400
+Bandipora,Jammu and Kashmir,28.65%,889.00,56.2800
+Chamoli,Uttarakhand,5.74%,1019.00,82.6500
+West Khasi Hills,Meghalaya,29.53%,980.00,77.8700
+Bilaspur,Himachal Pradesh,12.05%,981.00,84.5900
+Dimapur,Nagaland,127.29%,919.00,84.7900
+Dhalai,Tripura,22.85%,944.00,85.7200
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,55.88%,774.00,76.2400
+Uttarkashi,Uttarakhand,11.89%,958.00,75.8100
+Samba,Jammu and Kashmir,17.01%,886.00,81.4100
+East Garo Hills,Meghalaya,26.87%,972.00,73.9500
+Reasi,Jammu and Kashmir,27.04%,890.00,58.1500
+Debagarh,Orissa,14.01%,975.00,72.5700
+Ganderbal,Jammu and Kashmir,36.50%,874.00,58.0400
+Ramban,Jammu and Kashmir,31.99%,902.00,54.2700
+East Sikkim,Sikkim,15.73%,873.00,83.8500
+Churachandpur,Manipur,20.29%,975.00,82.7800
+Kohima,Nagaland,131.81%,928.00,85.2300
+Shupiyan,Jammu and Kashmir,25.97%,951.00,60.7600
+Bageshwar,Uttarakhand,4.18%,1090.00,80.0100
+Champawat,Uttarakhand,15.63%,980.00,79.8300
+Ri Bhoi,Meghalaya,34.26%,953.00,75.6700
+Bijapur,Chhattisgarh,8.78%,984.00,40.8600
+Mon,Nagaland,80.36%,899.00,56.9900
+Rudraprayag,Uttarakhand,6.53%,1114.00,81.3000
+South Andaman,Andaman And Nicobar Islands,14.23%,871.00,89.1300
+Bishnupur,Manipur,13.93%,999.00,75.8500
+Kishtwar,Jammu and Kashmir,20.88%,920.00,56.2000
+The Dangs,Gujarat,22.26%,1006.00,75.1600
+Dima Hasao,Assam,13.84%,932.00,77.5400
+Karaikal,Puducherry,17.23%,1047.00,87.0500
+Tuensang,Nagaland,94.83%,929.00,73.0800
+Mokokchung,Nagaland,60.94%,925.00,91.6200
+Daman,Daman and Diu,67.71%,534.00,88.0700
+Ukhrul,Manipur,30.70%,943.00,81.3500
+Papumpare,Arunachal Pradesh,44.73%,980.00,79.9500
+Wokha,Nagaland,98.81%,968.00,87.6900
+Phek,Nagaland,111.84%,951.00,78.0500
+Lunglei,Mizoram,17.64%,947.00,88.8600
+Changlang,Arunachal Pradesh,18.18%,926.00,59.8000
+South Sikkim,Sikkim,11.65%,915.00,81.4200
+Lohit,Arunachal Pradesh,16.59%,912.00,68.1800
+Chandel,Manipur,21.85%,933.00,71.1100
+South Garo Hills,Meghalaya,40.95%,945.00,71.7200
+New Delhi,Delhi,-20.72%,822.00,88.3400
+Kargil,Jammu and Kashmir,18.02%,810.00,71.3400
+Zunheboto,Nagaland,78.05%,976.00,85.2600
+Tamenglong,Manipur,26.15%,943.00,70.0500
+Narayanpur,Chhattisgarh,19.16%,994.00,48.6200
+West Sikkim,Sikkim,10.69%,942.00,77.3900
+Leh,Jammu and Kashmir,13.87%,690.00,77.2000
+Champhai,Mizoram,16.01%,984.00,95.9100
+Lawngtlai,Mizoram,60.14%,945.00,65.8800
+West Siang,Arunachal Pradesh,8.04%,930.00,66.4600
+Tirap,Arunachal Pradesh,11.61%,944.00,52.1900
+North And Middle Andaman,Andaman And Nicobar Islands,-0.02%,925.00,83.9100
+East Siang,Arunachal Pradesh,13.52%,980.00,72.5400
+Peren,Nagaland,104.15%,915.00,77.9500
+Kurung Kumey,Arunachal Pradesh,116.56%,1032.00,48.7500
+Mamit,Mizoram,37.56%,927.00,84.9300
+Kinnaur,Himachal Pradesh,7.39%,819.00,80.0000
+Kolasib,Mizoram,27.28%,956.00,93.5000
+West Kameng,Arunachal Pradesh,12.53%,819.00,67.0700
+Upper Subansiri,Arunachal Pradesh,50.78%,998.00,63.8000
+Lower Subansiri,Arunachal Pradesh,49.00%,984.00,74.3500
+East Kameng,Arunachal Pradesh,37.62%,1029.00,60.0200
+Kiphire,Nagaland,38.58%,956.00,69.5400
+Serchhip,Mizoram,20.56%,977.00,97.9100
+Lakshadweep,Lakshadweep,6.30%,946.00,91.8500
+Saiha,Mizoram,-7.34%,979.00,90.0100
+Yanam,Puducherry,77.19%,1038.00,79.4700
+Lower Dibang Valley,Arunachal Pradesh,7.20%,928.00,69.1300
+Diu,Daman and Diu,17.77%,1031.00,83.4600
+Longleng,Nagaland,-21.57%,905.00,72.1700
+Tawang,Arunachal Pradesh,28.40%,714.00,59.0000
+North Sikkim,Sikkim,6.53%,767.00,78.0100
+Mahe,Puducherry,13.54%,1184.00,97.8700
+Nicobars,Andaman And Nicobar Islands,-12.42%,777.00,78.0600
+Upper Siang,Arunachal Pradesh,5.87%,889.00,59.9900
+Lahul and Spiti,Himachal Pradesh,-5.00%,903.00,76.8100
+Anjaw,Arunachal Pradesh,14.19%,839.00,56.4600
+Dibang Valley,Arunachal Pradesh,10.07%,813.00,64.1000
